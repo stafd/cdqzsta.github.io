@@ -1,37 +1,11 @@
-## Welcome to GitHub Pages
+## 成都七中科学技术协会
 
-You can use the [editor on GitHub](https://github.com/stafd/cdqzsta.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+这里是成都七中科学技术协会的网站，我们在这里张贴公告或提供一些文件的下载。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 关于
 
-### Markdown
+成都七中科学技术协会，简称成七科协，是面向成都七中全体学生的群众性组织，是连接广大青年学生与科学文化知识的桥梁，是帮助学校提高学生科学文化素质的重要力量。我们的宗旨是促进科学技术知识在学生层面的普及，促进科学技术人才成长，培养学生对科学技术的兴趣，提高学生的科学文化素养，为有理想有抱负有专长的学生提供一个全方位提升的平台。我们积极拥护并努力贯彻国家科学技术工作自主创新、重点跨越、支撑发展、引领未来的方针，弘扬尊重劳动、尊重知识、尊重人才、尊重创造的风尚。我们的具体工作主要包括主办成都七中校级学生杂志《未来梦》、建立并维护成都七中学生网站和学生论坛、组织承办“未来梦学生大讲坛”和部分校级学生活动，包括一年一度的科技活动月和不同层面的科学技术交流活动，促进学生间的或作并致力于发展同其他学校、地区的同类协会的友好交往。
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### 联系
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/stafd/cdqzsta.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+cdqz_sta[@]qq.com
